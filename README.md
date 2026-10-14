@@ -1,4 +1,5 @@
-# Business Insights 360 P2  – Marketing View
+BI360 
+– Marketing View
 
 ## 📌 Project Overview
 
